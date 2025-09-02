@@ -26,7 +26,9 @@
 ---
 
 ### 📊 Stats & Achievements
-- 🏆 Top **6% Global** on TryHackMe    
+- 🏆 Top **6% Global** on TryHackMe
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/lokidres.png)](https://tryhackme.com/p/lokidres)
+
 
 
 - 📈 GitHub Stats:  
