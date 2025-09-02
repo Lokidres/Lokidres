@@ -26,12 +26,8 @@
 ---
 
 ### 📊 Stats & Achievements
-- 🏆 Top **6% Global** on TryHackMe  
-- 🎖️ TryHackMe Badge:  
+- 🏆 Top **6% Global** on TryHackMe    
 
-<p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4294509" style="border:none; width:300px; height:300px;"></iframe>
-</p>
 
 - 📈 GitHub Stats:  
 
@@ -42,23 +38,10 @@
 
 ---
 
-### 🌟 Featured Projects
-- 🔐 **PyLock** – GUI Application Locker  
-- ⚡ **Port Scanner** – Python-based scanner  
-- 🖥️ **System Health Monitor** – Security-focused system health checker  
 
----
-
-### 📌 Roadmap
-- 📚 Now: Cloud, Pentest  
-- 🔜 Next: Incident Handling, Advanced Pentesting  
-- 🎯 Future: Cloud Security Engineer  
-
----
 
 ### 🌍 Connect
 - 🌐 [TryHackMe Profile](https://tryhackme.com/p/lokidres)  
-- 💼 [LinkedIn](#)  
 - 💻 [GitHub](https://github.com/lokidres)  
 
 
