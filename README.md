@@ -25,7 +25,7 @@
 ---
 
 ### 📊 Stats & Achievements
-- 🏆 Top **6% Global** on TryHackMe  
+- 🏆 Top **3% Global** on TryHackMe  
 
 - 📈 GitHub Stats:  
 
